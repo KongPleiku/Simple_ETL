@@ -1,0 +1,2 @@
+Dev,mongodb://congnt:3RYDek6nXodH0bwp@18.141.241.49:27022/dev_iam?authSource=admin&directConnection=true
+UAT,mongodb://glueUser:89fsiu9GZ1ClgwJ1QMKt@18.141.242.250:27017/admin?authSource=admin&directConnection=true
